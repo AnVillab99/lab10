@@ -1,0 +1,15 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10%;
+}
+
+canvas {
+    border: 1px;
+    border-style: solid;
+    margin: auto;
+    display: block;
+}
+canvas ::before{
+    color: lightblue;
+}
